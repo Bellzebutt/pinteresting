@@ -1,0 +1,17 @@
+$body-bg:	#3498db;
+$navbar-inverse-bg: #34495e;
+$navbar-inverse-link-color: white;
+$brand-primary: #95a5a6;
+
+@import 'bootstrap';
+
+* {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+}
+
+.jumbotron div {
+	border: 10px;
+	border-color: #95a5a6;
+}
